@@ -1,0 +1,15 @@
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\bin\Debug\net6.0\factory-pattern.exe
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\bin\Debug\net6.0\factory-pattern.deps.json
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\bin\Debug\net6.0\factory-pattern.runtimeconfig.json
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\bin\Debug\net6.0\factory-pattern.dll
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\bin\Debug\net6.0\factory-pattern.pdb
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.csproj.AssemblyReference.cache
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.AssemblyInfoInputs.cache
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.AssemblyInfo.cs
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.csproj.CoreCompileInputs.cache
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.dll
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\refint\factory-pattern.dll
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.pdb
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\factory-pattern.genruntimeconfig.cache
+C:\Users\pmaye\source\repos\factory-pattern\factory-pattern\obj\Debug\net6.0\ref\factory-pattern.dll
